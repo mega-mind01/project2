@@ -159,3 +159,18 @@
 .foot img{
     width: 250px;
 }
+
+.info button{
+    width: 150px;
+    color: #eee;
+    border: none;
+    border-radius: 10px;
+}
+
+.info .btn-success{
+    background-color: #0de27d;
+}
+
+.info .btn-dark{
+    background-color: #000;
+}
